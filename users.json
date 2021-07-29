@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Axel Pearson",
-    "email": "velit@maurissapien.co.uk",
+    "email": "velit@co.uk",
     "address": "Qutubullapur",
     "role": 1,
     "absensi":20,
@@ -13,7 +13,7 @@
   {
     "id": 2,
     "name": "Uriah Mccoy",
-    "email": "tincidunt.nunc.ac@feugiat.co.uk",
+    "email": "tincidunt.ac@co.uk",
     "address": "Oudegem",
     "role": 2,
     "absensi":20,
@@ -24,7 +24,7 @@
   {
     "id": 3,
     "name": "Rajah Roach",
-    "email": "sem@sagittissemperNam.co.uk",
+    "email": "sem@co.uk",
     "address": "Heinsch",
     "role": 3,
     "absensi":21,
@@ -35,7 +35,7 @@
   {
     "id": 4,
     "name": "Emery Cooper",
-    "email": "faucibus@Duisrisusodio.org",
+    "email": "faucibus@co.uk",
     "address": "North Bay",
     "role": 3,
     "absensi":20,
@@ -46,7 +46,7 @@
   {
     "id": 5,
     "name": "Stone Galloway",
-    "email": "faucibus.ut.nulla@co.uk",
+    "email": "faucibusnulla@co.uk",
     "address": "Jundiaí",
     "role": 3,
     "absensi":20,
