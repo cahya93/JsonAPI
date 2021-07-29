@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Axel Pearson",
+    "email": "velit@maurissapien.co.uk",
+    "address": "Qutubullapur",
+    "role": 1,
+    "absensi":20,
+    "tunjangan":100000,
+    "gajiPokok":1000000,
+    "status":1
+  },
+  {
+    "id": 2,
+    "name": "Uriah Mccoy",
+    "email": "tincidunt.nunc.ac@feugiat.co.uk",
+    "address": "Oudegem",
+    "role": 2,
+    "absensi":20,
+    "tunjangan":50000,
+    "gajiPokok":900000,
+    "status":1
+  },
+  {
+    "id": 3,
+    "name": "Rajah Roach",
+    "email": "sem@sagittissemperNam.co.uk",
+    "address": "Heinsch",
+    "role": 3,
+    "absensi":21,
+    "tunjangan":30000,
+    "gajiPokok":800000,
+    "status":1
+  },
+  {
+    "id": 4,
+    "name": "Emery Cooper",
+    "email": "faucibus@Duisrisusodio.org",
+    "address": "North Bay",
+    "role": 3,
+    "absensi":20,
+    "tunjangan":30000,
+    "gajiPokok":800000,
+    "status":1
+  },
+  {
+    "id": 5,
+    "name": "Stone Galloway",
+    "email": "faucibus.ut.nulla@Curabiturmassa.co.uk",
+    "address": "Jundiaí",
+    "role": 3,
+    "absensi":20,
+    "tunjangan":30000,
+    "gajiPokok":800000,
+    "status":1
+  }
+]
