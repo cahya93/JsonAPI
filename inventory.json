@@ -4,20 +4,23 @@
    "nameProduct":"Telur",
    "hargaBeli":25000,
    "hargaJual":26000,
-   "qty":1
+   "qty":1,
+   "thumbnailUrl": "https://via.placeholder.com/150/92c952"
   },
   { 
     "id" :2,
    "nameProduct":"Minyak",
    "hargaBeli":10000,
    "hargaJual":12000,
-   "qty":1
+   "qty":1,
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
   },
   { 
     "id" :3,
    "nameProduct":"Gula",
    "hargaBeli":12000,
    "hargaJual":15000,
-   "qty":1
+   "qty":1,
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
   }
 ]
