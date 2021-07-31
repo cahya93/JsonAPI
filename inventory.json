@@ -1,0 +1,20 @@
+[
+  { id :1,
+   namaProduct:"Telur",
+   hargaBeli:25000,
+   hargaJual:26000,
+   qty:1
+  },
+  { id :2,
+   namaProduct:"Minyak",
+   hargaBeli:10000,
+   hargaJual:12000,
+   qty:1
+  },
+  { id :3,
+   namaProduct:"Gula",
+   hargaBeli:12000,
+   hargaJual:15000,
+   qty:1
+  }
+]
