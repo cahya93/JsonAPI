@@ -38,5 +38,29 @@
    "hargaJual":27000,
    "qty":1,
     "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+  },
+  { 
+    "id" :6,
+   "nameProduct":"Daging",
+   "hargaBeli":75000,
+   "hargaJual":78000,
+   "qty":1,
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+  },
+  { 
+    "id" :7,
+   "nameProduct":"Ikan",
+   "hargaBeli":12000,
+   "hargaJual":15000,
+   "qty":1,
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+  },
+  { 
+    "id" :8,
+   "nameProduct":"Kopi",
+   "hargaBeli":8500,
+   "hargaJual":10000,
+   "qty":1,
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
   }
 ]
