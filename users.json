@@ -10,7 +10,8 @@
     "gajiPokok":1000000,
     "status":1,
     "password":12345,
-    "phone":"081235852456"
+    "phone":"081235852456",
+    "photo":""
   },
   {
     "id": 2,
@@ -36,7 +37,8 @@
     "gajiPokok":800000,
     "status":1,
     "password":12345,
-    "phone":"081235852456"
+    "phone":"081235852456",
+    "photo":""
   },
   {
     "id": 4,
@@ -49,7 +51,8 @@
     "gajiPokok":800000,
     "status":1,
     "password":12345,
-    "phone":"081235852456"
+    "phone":"081235852456",
+    "photo":""
   },
   {
     "id": 5,
@@ -62,6 +65,7 @@
     "gajiPokok":800000,
     "status":1,
     "password":12345,
-    "phone":"081235852456"
+    "phone":"081235852456",
+    "photo":""
   }
 ]
