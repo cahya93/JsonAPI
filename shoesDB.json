@@ -1,11 +1,11 @@
 {
-shoes: [
+"shoes": [
         {
-        name: "Nike Air Force 1",
-        category: "Men Shoes",
-        description: "The Nike Air Edge 270 takes the look of retro basketball and puts it through a modern lens.",
-        price: 30,
-        sizes: [
+        "name": "Nike Air Force 1",
+        "category": "Men Shoes",
+        "description": "The Nike Air Edge 270 takes the look of retro basketball and puts it through a modern lens.",
+        "price": 30,
+        "sizes": [
         "8",
         "8.5",
         "9",
