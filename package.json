@@ -3,8 +3,13 @@
   "version": "1.0.0",
   "description": "fake server with fake database",
   "main": "server.js",
-  "scripts": { 
-    "start": "node server.js" 
+  "scripts": {
+    "start": "node server.js",
+    "heroku-postbuild": "npm run build"
+  },
+  "engines": {
+    "npm": "5.6.0",
+    "node": "8.10.0"
   },
   "author": "YantoDev",
   "license": "ISC",
